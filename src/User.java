@@ -1,7 +1,7 @@
 public class User {
-    private String nome;
-    private String cpf;
-    private String email;
+      String nome;
+      String cpf;
+      String email;
 
 
     public User(String nome, String cpf, String email) {
