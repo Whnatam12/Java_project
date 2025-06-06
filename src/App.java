@@ -39,7 +39,7 @@ public class App {
 
 
         Sale v3 = new Sale(u3);
-        v3.addItem(p2, 1);
+        v3.addItem(p2, 3);
       
 
 
