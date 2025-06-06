@@ -1,10 +1,9 @@
-import java.util.ArrayList;
-
 import java.util.List;
 
+import java.util.ArrayList;
 public class Sale {
-    private User user;
-    private List<Salesitems> itens = new ArrayList<>();
+     User user;
+     List<Salesitems> itens = new ArrayList<>();
 
     public Sale(User user) {
         this.user = user;
