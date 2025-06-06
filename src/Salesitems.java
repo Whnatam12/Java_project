@@ -1,6 +1,6 @@
 public class Salesitems {
-    private Produts produts;
-    private int quantity;
+    Produts produts;
+    int quantity;
 
     public Salesitems(Produts produts, int quantity) {
         this.produts = produts;
